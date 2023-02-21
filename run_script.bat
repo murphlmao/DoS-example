@@ -1,0 +1,1 @@
+python -m dos_script -i 192.168.50.72 -p 5154 -c y -t 64000 -th 1500

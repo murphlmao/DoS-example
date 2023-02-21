@@ -1,0 +1,36 @@
+HOW TO USE:
+
+must be in the same directory as paping
+
+examples:
+dos-example
+│   dos_script.py
+|
+└───paping
+│       │ paping.exe
+│       │ *YOU MUST BE HERE*
+
+
+! from powershell/commandline !
+
+change directories with 'cd /path/i/want/to/go/to/'
+
+examples:
+- 'cd paping'
+- 'cd /Desktop/test'
+- 'cd ..' to go back one level
+
+list content of directory you're in: 'ls'
+
+once in the same folder as paping.exe:
+.\paping.exe [IP] -p [PORT]
+
+Options:
+ -?, --help     display usage
+ -p, --port N   set TCP port N (required)
+     --nocolor  Disable color output
+ -t, --timeout  timeout in milliseconds (default 1000)
+ -c, --count N  set number of checks to N
+
+example: 
+.\paping 192.168.50.72 -p 5154
