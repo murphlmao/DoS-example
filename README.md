@@ -34,6 +34,8 @@ Options:
 ```
 
 # How To Use Paping (Easily Ping Ports)
+Paping allows you to ping ports with an ip address
+You can't natively ping ports within CMD or PS.
 More specific documentation in /paping/howtouse.txt
 ```
 dos-example
