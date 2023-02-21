@@ -58,6 +58,11 @@ https://github.com/GinjaChris/pentmenu
 https://github.com/home-assistant/core         
 https://github.com/chassing/linux-sysadmin-interview-questions#general     
 https://tinyurl.com/9t83jxtz       
-    
+https://github.com/Leeon123/Aoyama       
 
+
+# creds
+https://github.com/Leeon123/TCP-UDP-Flood       
+https://code.google.com/archive/p/paping/         
+  
  
