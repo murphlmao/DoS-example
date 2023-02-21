@@ -1,1 +1,1 @@
-python -m dos_script -i 192.168.50.72 -p 5154 -c y -t 64000 -th 1500
+python -m dos_script --ip 192.168.50.72 --port 5154 --choice y --times 50000 --threads 1500
