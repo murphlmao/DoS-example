@@ -3,5 +3,5 @@
 
 :loop
 
-ping <ADDRESS> -l 65500 -w 1 -n 1
+ping 192.168.50.72 -l 65500 -w 1 -n 1
 goto :loop
